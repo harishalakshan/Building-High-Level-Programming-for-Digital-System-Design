@@ -1,0 +1,9 @@
+flask
+flask-cors
+RPi.GPIO
+Adafruit_DHT
+sqlite3
+paho-mqtt
+python-dotenv
+twilio
+flask-jwt-extended
